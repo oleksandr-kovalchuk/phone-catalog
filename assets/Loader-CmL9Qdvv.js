@@ -1,0 +1,1 @@
+import{r,G as s,j as o}from"./index-C2Lx4qPb.js";const a=""+new URL("logo_dark-BfREnrH9.svg",import.meta.url).href,l=""+new URL("logo-CU5-laXR.svg",import.meta.url).href,i=()=>{const{theme:t}=r.useContext(s),e=t==="light";return o.jsx("div",{className:"loader",children:o.jsx("img",{src:e?l:a,alt:"Application Logo",className:"loader__image"})})};export{i as L};
