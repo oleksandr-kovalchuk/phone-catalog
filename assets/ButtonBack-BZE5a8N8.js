@@ -1,0 +1,1 @@
+import{r as o,G as e,b as c,j as t,I as r,i}from"./index-oYNwcgl-.js";const u=()=>{const{theme:s}=o.useContext(e),a=c(),n=()=>a(-1);return t.jsxs("button",{className:"button",onClick:n,type:"button",children:[t.jsx(r,{icon:i.arrow_left[s]}),t.jsx("span",{className:"button-title",children:"Back"})]})};export{u as B};
